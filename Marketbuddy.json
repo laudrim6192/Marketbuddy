@@ -1,13 +1,14 @@
 {
   "Author": "Chalkos",
   "Name": "Marketbuddy",
-  "Punchline": "Less clicks, more gil!",
+  "InternalName": "Marketbuddy",
+  "AssemblyVersion": "0.3.0.0",
   "Description": "Helper for your day-to-day market operations.",
+  "ApplicableVersion": "any",
   "RepoUrl": "https://github.com/laudrim6192/Marketbuddy",
   "Tags": [],
-  "InternalName": "Marketbuddy",
-  "ApplicableVersion": "any",
   "DalamudApiLevel": 7,
   "LoadPriority": 0,
+  "Punchline": "Less clicks, more gil!",
   "Changelog": "Update Dalamud API level."
 }

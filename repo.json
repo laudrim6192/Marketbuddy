@@ -5,10 +5,10 @@
         "Punchline": "Less clicks, more gil!",
         "Description": "Helper for your day-to-day market operations.",
         "InternalName": "Marketbuddy",
-        "AssemblyVersion": "0.2.2.11",
+        "AssemblyVersion": "0.3.0.0",
         "RepoUrl": "https://github.com/laudrim6192/Marketbuddy",
         "ApplicableVersion": "any",
-        "DalamudApiLevel": 6,
+        "DalamudApiLevel": 7,
         "DownloadLinkInstall": "https://github.com/laudrim6192/Marketbuddy/raw/main/latest.zip",
         "IsHide": false,
         "IsTestingExclusive": false,
@@ -16,6 +16,6 @@
         "DownloadLinkUpdate": "https://github.com/laudrim6192/Marketbuddy/raw/main/latest.zip",
         "DownloadCount": 1337,
         "LastUpdated": "1632409669",
-        "Changelog": "bugfix: handle clipboard exceptions"
+        "Changelog": "Update Dalamud API level"
     }
 ]

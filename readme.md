@@ -31,6 +31,8 @@ Holding SHIFT prevents some automation, but you're better off just disabling wha
 
 ## Changelog
 
+* 0.3.0.0
+  * fix: update Dalamud API level
 * 0.2.2.12
   * fix: handle clipboard exceptions
 * 0.2.2.11
