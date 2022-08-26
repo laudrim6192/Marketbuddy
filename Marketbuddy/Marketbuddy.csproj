@@ -46,13 +46,26 @@
     </PropertyGroup>
 
     <ItemGroup>
-        <PackageReference Include="DalamudPackager" Version="2.1.8" />
-        <Reference Include="Dalamud"/>
-        <Reference Include="FFXIVClientStructs"/>
-        <Reference Include="ImGui.NET"/>
-        <Reference Include="ImGuiScene"/>
-        <Reference Include="SharpDX" />
-        <Reference Include="SharpDX.Mathematics" />
+        <PackageReference Include="DalamudPackager" Version="2.1.7" />
+        <Reference Include="Dalamud">
+            <HintPath>$(AppData)\XIVLauncher\addon\Hooks\dev\Dalamud.dll</HintPath>
+            <Private>false</Private>
+        </Reference>
+        <Reference Include="FFXIVClientStructs">
+            <Private>false</Private>
+        </Reference>
+        <Reference Include="ImGui.NET">
+            <Private>false</Private>
+        </Reference>
+        <Reference Include="ImGuiScene">
+            <Private>false</Private>
+        </Reference>
+        <Reference Include="SharpDX">
+            <Private>false</Private>
+        </Reference>
+        <Reference Include="SharpDX.Mathematics">
+            <Private>false</Private>
+        </Reference>
     </ItemGroup>
 
     <ItemGroup>
